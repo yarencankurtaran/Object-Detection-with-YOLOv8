@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/sonianmty/nusec-and-midesec
 5. Performance Analysis
 6. Conclusion
 
-## 1. Getting Started
+## Getting Started
 
 In this section, the necessary libraries for the project were imported, and the basic tools were prepared. 
 Python Libraries:
@@ -60,7 +60,7 @@ https://www.kaggle.com/datasets/sonianmty/nusec-and-midesec
   5. Performans Analizi
   6. Sonuç
 
-## 1. Başlangıç
+## Başlangıç
 Bu bölümde proje için gerekli kütüphaneler yüklenir ve içe aktarılır, temel araçlar hazırlanır.
 Kullanılan Kütüphaneler
 Python Kütüphaneleri:
